@@ -1,0 +1,12 @@
+.EyesWhite {
+    width: 40px;
+    height: 40px;
+    top: -600px;
+    left: -345px;
+    border-radius: 400%;
+    position: absolute;
+    color: white;
+    box-shadow: 
+                170px 260px 0 0 currentColor,
+                470px 260px 0 0 currentColor;
+}
